@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RegressionSuite">
+
+    <test name="Regression">
+
+        <classes>
+
+            <class name="com.tests.ui.SignupTest"/>
+
+            <class name="com.tests.ui.LoginTest"/>
+
+            <class name="com.tests.ui.ProductTest"/>
+            <class name="com.tests.ui.CartTest"/>
+            <class name="com.tests.ui.CheckoutTest"/>
+            <class name="com.tests.ui.PaymentTest"/>
+            <class name="com.tests.ui.LogoutTest"/>
+
+
+        </classes>
+
+    </test>
+
+</suite>
